@@ -205,7 +205,7 @@ def addressInNetwork(ip, net):
 
 def showUsage():
 	print("Usage: wreckuests.py [-v] <victim's url> [-a] <login:pass> [-t] <timeout>\nPlease, read more about arguments in GitHub repository!")
-        print("FREE Bitcoin - http://fumacrom.com/3SMYx | Work at Home - http://fumacrom.com/3SMYT | Get Paid to share links - https://bit.ly/3zI3oWG")
+        print("target: lakecountyclerk.org | FREE Bitcoin - http://fumacrom.com/3SMYx | Work at Home - http://fumacrom.com/3SMYT | Get Paid to share links - https://bit.ly/3zI3oWG")
 
 if __name__ == '__main__':
 	main(sys.argv[1:])
